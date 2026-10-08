@@ -1,3 +1,3 @@
 # Lab3Web
 ## struktur html dasar
-![Struktur html dasar](gambar 1/pgn)
+![Struktur html dasar](gambar1./pgn)
