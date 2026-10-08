@@ -1,3 +1,5 @@
 # Lab3Web
-## struktur html dasar
-![Struktur html dasar](gambar1.pgn)
+## 1. Struktur HTML Dasar
+Pada tahap ini, dibuat file `lab2_css_dasar.html` yang berisi struktur dasar halaman web.
+**Screenshot:**
+![Struktur HTML Dasar](gambar1.png)
